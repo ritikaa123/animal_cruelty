@@ -1,0 +1,134 @@
+body{
+  background-color:#F8D6FD ;
+}
+h1
+{
+  font-size:3rem;
+margin:50px auto ;
+text-align: center;
+  font-family:"Rockwell",serif;
+  color: #150D17 ;
+}
+p
+{
+  color:#51495B ;
+  font-size:2rem;
+  font-family: Book Antiqua;
+  margin-left: 10px;
+}
+li{
+  margin-left: 10px;
+}
+h2
+{
+  font-size:2rem;
+  line-height: 2;
+   font-family: cursive;
+   margin-left: 10px;
+}
+hr
+{
+  margin-top: 100px;
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:5%;
+}
+.first-image
+{
+  width:350px;
+  position:absolute;
+  right:50px;
+  border-radius:50%;
+  float:left;
+  margin-top:5px;
+  padding: 20px;
+}
+.about{
+  width:60%;
+  font-size:1.25rem;
+}
+.para-1
+{
+  margin-top:20px;
+  background-color:beige ;
+  font-size:1.5rem;
+  background-size: contain;
+}
+.para-2
+{
+  font-size: 2rem;
+  color:black;
+}
+
+.heading
+{
+  text-align: center;
+}
+.anchor
+{
+  font-size: 1.25rem;
+  margin-right:30px;
+}
+
+.footer-link
+{
+  font-size:1rem;
+  padding:20px;
+  line-height: 2;
+text-align: center;
+}
+.bottom-container
+{
+  background-color: beige;
+  text-align: center;
+padding: 10px 0 10px;
+
+}
+.navbar-brand
+{
+  margin:20px;
+}
+.nav-item
+{
+  margin:20px;
+}
+.para-3
+{
+  text-align: center;
+}
+#testimonials
+{
+
+  text-align: center;
+  background-color:#F8D6FD;
+  color:black;
+}
+.carousel-item
+{
+    padding:7% 15%;
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin:20px;
+}
+a:link {
+  color:black;
+}
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color:black;
+}
+.testimonial-images{
+  width:15%;
+  border-radius:100%;
+  margin:20px;
+}
+.copyright
+{
+  font-size:15px;
+}
